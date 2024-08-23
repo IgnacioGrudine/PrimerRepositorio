@@ -1,0 +1,14 @@
+C:\Users\nacho\OneDrive\Escritorio\Interfaces\Coleccion\Coleccion\bin\Debug\net8.0\Coleccion.exe
+C:\Users\nacho\OneDrive\Escritorio\Interfaces\Coleccion\Coleccion\bin\Debug\net8.0\Coleccion.deps.json
+C:\Users\nacho\OneDrive\Escritorio\Interfaces\Coleccion\Coleccion\bin\Debug\net8.0\Coleccion.runtimeconfig.json
+C:\Users\nacho\OneDrive\Escritorio\Interfaces\Coleccion\Coleccion\bin\Debug\net8.0\Coleccion.dll
+C:\Users\nacho\OneDrive\Escritorio\Interfaces\Coleccion\Coleccion\bin\Debug\net8.0\Coleccion.pdb
+C:\Users\nacho\OneDrive\Escritorio\Interfaces\Coleccion\Coleccion\obj\Debug\net8.0\Coleccion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nacho\OneDrive\Escritorio\Interfaces\Coleccion\Coleccion\obj\Debug\net8.0\Coleccion.AssemblyInfoInputs.cache
+C:\Users\nacho\OneDrive\Escritorio\Interfaces\Coleccion\Coleccion\obj\Debug\net8.0\Coleccion.AssemblyInfo.cs
+C:\Users\nacho\OneDrive\Escritorio\Interfaces\Coleccion\Coleccion\obj\Debug\net8.0\Coleccion.csproj.CoreCompileInputs.cache
+C:\Users\nacho\OneDrive\Escritorio\Interfaces\Coleccion\Coleccion\obj\Debug\net8.0\Coleccion.dll
+C:\Users\nacho\OneDrive\Escritorio\Interfaces\Coleccion\Coleccion\obj\Debug\net8.0\refint\Coleccion.dll
+C:\Users\nacho\OneDrive\Escritorio\Interfaces\Coleccion\Coleccion\obj\Debug\net8.0\Coleccion.pdb
+C:\Users\nacho\OneDrive\Escritorio\Interfaces\Coleccion\Coleccion\obj\Debug\net8.0\Coleccion.genruntimeconfig.cache
+C:\Users\nacho\OneDrive\Escritorio\Interfaces\Coleccion\Coleccion\obj\Debug\net8.0\ref\Coleccion.dll
