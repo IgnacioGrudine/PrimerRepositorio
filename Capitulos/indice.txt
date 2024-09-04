@@ -1,3 +1,3 @@
-Capitulo1 :  Introduccion a git
-Capitulo2 : Fluho[A[D[D[D[[C:[D[D[D 1[2~ :[[B[D[D[D[D 2 : [C[C[[2~flujo de trabajo basico
-Capitulo 3 Repositorio remoto
+Capitulo1 : Introduccion a git
+Capitulo2 : flujo de trabajo basico
+Capitulo3 : Repositorio remoto
